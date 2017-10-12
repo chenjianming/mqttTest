@@ -1,0 +1,15 @@
+{
+    "name": "mqtttest",
+    "version": "0.1.0",
+    "description": "",
+    "author": "",
+    "main": "src/index.js",
+    "ruff": {
+        "dependencies": {
+            "mqtt": "^0.1.2",
+            "ruff-v1-infrared-receiver": "^0.3.7",
+            "relay-1c": "^2.0.5"
+        },
+        "version": 1
+    }
+}
